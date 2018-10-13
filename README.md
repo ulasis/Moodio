@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Moodio
 
-You can use the [editor on GitHub](https://github.com/ulasis/Moodio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Group Members
+Ahmet Akif Uğurtan
+Mehmet Taha Çetin
+Ulaş İş
+Esra Nur Ayaz
+Ahmet Ensar
 
 ### Markdown
 
