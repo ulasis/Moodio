@@ -8,5 +8,5 @@
 - Ahmet Ensar
 
 ### Reports
-- Specification Report
+- [Specification Report](docs/CS491SpesificationReport.pdf)
 
