@@ -10,4 +10,4 @@
 ### Reports
 - [Specification Report](docs/CS491SpesificationReport.pdf)
 - [Analysis Report](docs/AnalysisReport.pdf)
-- [High-Level Design Report](docs/"High Level Design Report.pdf")
+- [High-Level Design Report]
