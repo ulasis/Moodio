@@ -13,3 +13,6 @@
 - [High-Level Design Report](docs/HighLevelDesignReport.pdf)
 - [Low-Level Design Report](docs/LowLevelDesignReport.pdf)
 - [Final Report](docs/SeniorDesignProject.pdf)
+
+### Demo Video
+- [Video](https://www.youtube.com/watch?v=C__Udj6YQW0)
