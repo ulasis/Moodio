@@ -12,4 +12,4 @@
 - [Analysis Report](docs/AnalysisReport.pdf)
 - [High-Level Design Report](docs/HighLevelDesignReport.pdf)
 - [Low-Level Design Report](docs/LowLevelDesignReport.pdf)
-- [Final Report](docs/Senior Design Project.pdf)
+- [Final Report](docs/SeniorDesignProject.pdf)
